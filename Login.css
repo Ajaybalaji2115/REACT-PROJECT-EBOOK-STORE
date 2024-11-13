@@ -1,0 +1,133 @@
+
+.newlogin {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #cb6511, #aa25fc); /* Gradient from purple to blue */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #ffffff;
+  overflow: hidden;
+}
+
+
+
+.login-container {
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  max-width: 900px;
+}
+
+.login-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  gap: 20px;
+}
+
+.left-side {
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+}
+
+.left-side .logo {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.left-side h2 {
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+.left-side p {
+  font-size: 18px;
+  color: #f3f3f3;
+}
+
+/* Right Side (Form) */
+.right-side {
+  width: 50%;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.85);
+  color:#333;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.login-form h3 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #333;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  transition: border 0.3s ease;
+}
+
+.form-group input:focus {
+  border: 1px solid #ff7e5f;
+}
+
+.newbutton {
+  width: 100%;
+  padding: 15px;
+ background-color: blue;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #feb47b, #ff7e5f);
+}
+
+.login-form a {
+  display: block;
+  margin-top: 15px;
+  font-size: 14px;
+  color: #ff7e5f;
+  text-decoration: none;
+  text-align: center;
+}
+
+.login-form a:hover {
+  color: #feb47b;
+}
+

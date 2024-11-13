@@ -1,0 +1,90 @@
+/* Parent container to center the sign-up box */
+.page-container {
+ /* background: linear-gradient(45deg, #FF6B6B, #FFD93D);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+    background-color: #f0f0f0; /* Light grey background */
+    background: url(https://img.freepik.com/premium-photo/book-stack-library-room-blurred-bookshelf-background_42691-514.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    margin: 0;
+   
+  }
+  
+  /* Sign-up container */
+  .signup-container {
+   
+    background:transparent;
+    padding: 10rem;
+    border-radius: 120px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+  height: 60%;
+    width: 100%;
+    text-align: center;
+    border: 5px solid;  /* Sets the border width and style */
+    border-color:black; 
+  
+  }
+  
+  .signup-title {
+   
+    font-size: 2rem;
+    margin-top: 1rem;
+    color: #333;
+  }
+  
+  .signup-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-group {
+    margin-bottom: 3.0rem;
+  }
+  
+  .input-label {
+    display: block;
+    margin-bottom: 3.0rem;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 1.0rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    outline: none;
+  }
+  
+  .input-field:focus {
+    border-color: #FF6B6B;
+    box-shadow: 0 0 5px rgba(255, 107, 107, 0.5);
+  }
+  
+  .signup-button {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 1.0rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .signup-button:hover {
+    /*background: #FF3B3B;*/
+   
+  }
+  
+  .signup-button:active {
+    background: #FF1B1B;
+  }
+  

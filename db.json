@@ -1,0 +1,152 @@
+{
+  "cart": [
+    {
+      "id": "cdc1",
+      "name": "THE PURSUIT OF HAPPINESS",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/61f6A0zaq2L._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "21f8",
+      "name": "ATOMIC HABITS",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/81F90H7hnML._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "f1d1",
+      "name": "ALADDIN",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/51OXhs+IDsL._AC_SF480,480_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "00d9",
+      "name": "THE ALCHEMIST",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 11
+    },
+    {
+      "name": "PSYCHOLOGY OF MONEY",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71XEsXS5RlL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "ad19",
+      "quantity": 4
+    },
+    {
+      "id": "8d1a",
+      "name": "YOU ARE BORN TO BLOSSOM",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71RatA+9EzL._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "e309",
+      "name": "LIFE OF PI",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/816NlEQFMOL._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "8803",
+      "name": "ALL THE WORLD'S A STAGE",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/91y-+Ybz2iL._AC_UY327_FMwebp_QL65_.jpg",
+      "quantity": 1
+    }
+  ],
+  "item": [
+    {
+      "name": "ATOMIC HABITS",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/81F90H7hnML._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "21f8"
+    },
+    {
+      "name": "PSYCHOLOGY OF MONEY",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71XEsXS5RlL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "ad19"
+    },
+    {
+      "name": "EVERYONE HAS A STORY",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71epLzaqM-L._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "9f8f"
+    },
+    {
+      "name": "HARRY POTTER AND THE PHILOSOPHER'S STONE",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/81q77Q39nEL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "8629"
+    },
+    {
+      "name": "THE PURSUIT OF HAPPINESS",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/61f6A0zaq2L._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "cdc1"
+    },
+    {
+      "name": "ALADDIN",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/51OXhs+IDsL._AC_SF480,480_.jpg",
+      "id": "f1d1"
+    },
+    {
+      "name": "ALL THE WORLD'S A STAGE",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/91y-+Ybz2iL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "8803"
+    },
+    {
+      "name": "CINDERELLA",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/91N8DadokxL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "10f7"
+    },
+    {
+      "name": "LIFE OF PI",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/816NlEQFMOL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "e309"
+    },
+    {
+      "name": "INDIA IN SPACE",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/819WasbUIPL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "2c13"
+    },
+    {
+      "name": "JUNGLE BOOK",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/81EoLfqkRRL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "0c89"
+    },
+    {
+      "name": "THE ALCHEMIST",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "00d9"
+    },
+    {
+      "name": "YOU ARE BORN TO BLOSSOM",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/71RatA+9EzL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "8d1a"
+    },
+    {
+      "name": "TWELFTH FAIL",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/81QOMjpuQpL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "0f27"
+    },
+    {
+      "name": "PIRATES OF CARIBBEAN",
+      "price": "999.99",
+      "imageUrl": "https://m.media-amazon.com/images/I/91vz74KKehL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "0055"
+    }
+  ]
+}

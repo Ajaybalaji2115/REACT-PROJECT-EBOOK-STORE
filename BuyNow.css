@@ -1,0 +1,15 @@
+
+.buy-now {
+  padding: 10px;
+  font-size: 14px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.buy-now:hover {
+  background-color: #45a049;
+}
